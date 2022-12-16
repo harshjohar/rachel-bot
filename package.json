@@ -1,0 +1,24 @@
+{
+  "name": "rachel-bot",
+  "version": "1.0.0",
+  "description": "Bot for people who feel left out (just like me).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshjohar/rachel-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshjohar/rachel-bot/issues"
+  },
+  "homepage": "https://github.com/harshjohar/rachel-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
+}
